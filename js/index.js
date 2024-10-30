@@ -1,10 +1,12 @@
 const sheeps1 = [true, true, true, false, true, true, true, true ,true, 
 				false, true, false, true, false, false, true , true, true, 
 				true, true, false, false, true, true];
+
 const sheeps2 = [false, false, false];
+
 const sheeps3 = "hello world";
 
-function countSheeps(list)
+function	countSheeps(list)
 {
 	let	count = 0;
 
