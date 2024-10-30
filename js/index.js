@@ -28,7 +28,7 @@ function countSheeps(list)
 		console.log("UPS!!! Wolfs eaten Sheeps");
 		return ;
 	}
-	console.log("There are", count, "in total");
+	console.log("There are", count, "sheep in total");
 }
 
 countSheeps(sheeps1);
